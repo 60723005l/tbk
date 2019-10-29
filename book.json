@@ -1,6 +1,7 @@
 {
     "title" : "路側設施即時交通資料庫系統",
     "author" : "vicky",
+    "language": "zh",
     "description" : "路側設施即時交通資料庫系統",
     "variables": {
         "v": "Hello World"
